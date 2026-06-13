@@ -13,5 +13,8 @@ public class demo {
 		System.out.println("added one more fiel");
 		System.out.println("my name is khan");
 		
+		student obj =new student();
+		obj.call();
+		
 	}
 }
